@@ -2,5 +2,5 @@
 <<<<<<< HEAD
 Hope everything is fine
 =======
-Will cause issue
+Will cause issue. So ignore
 >>>>>>> bad
