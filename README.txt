@@ -2,5 +2,4 @@
 <<<<<<< HEAD
 Hope everything is fine
 =======
-Will cause issue. So ignore
->>>>>>> bad
+Will cause issue
